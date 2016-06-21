@@ -15,7 +15,7 @@
 		8853A5C01D180AC7008C3E26 /* test_evening_sample.png in Resources */ = {isa = PBXBuildFile; fileRef = 8853A5BD1D180AC7008C3E26 /* test_evening_sample.png */; };
 		8853A5C11D180AC7008C3E26 /* test_morning_sample.png in Resources */ = {isa = PBXBuildFile; fileRef = 8853A5BE1D180AC7008C3E26 /* test_morning_sample.png */; };
 		8853A5C21D180AC7008C3E26 /* test_night_sample.png in Resources */ = {isa = PBXBuildFile; fileRef = 8853A5BF1D180AC7008C3E26 /* test_night_sample.png */; };
-		8853A5C41D180B30008C3E26 /* TestTableTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8853A5C31D180B30008C3E26 /* TestTableTableViewController.swift */; };
+		8853A5C41D180B30008C3E26 /* TestTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8853A5C31D180B30008C3E26 /* TestTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,7 +29,7 @@
 		8853A5BD1D180AC7008C3E26 /* test_evening_sample.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = test_evening_sample.png; sourceTree = "<group>"; };
 		8853A5BE1D180AC7008C3E26 /* test_morning_sample.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = test_morning_sample.png; sourceTree = "<group>"; };
 		8853A5BF1D180AC7008C3E26 /* test_night_sample.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = test_night_sample.png; sourceTree = "<group>"; };
-		8853A5C31D180B30008C3E26 /* TestTableTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TestTableTableViewController.swift; sourceTree = "<group>"; };
+		8853A5C31D180B30008C3E26 /* TestTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TestTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,7 +65,7 @@
 				8853A5AA1D1807A8008C3E26 /* AppDelegate.swift */,
 				8853A5AC1D1807A8008C3E26 /* ViewController.swift */,
 				8853A5AE1D1807A8008C3E26 /* Main.storyboard */,
-				8853A5C31D180B30008C3E26 /* TestTableTableViewController.swift */,
+				8853A5C31D180B30008C3E26 /* TestTableViewController.swift */,
 				8853A5BC1D180AC7008C3E26 /* images */,
 				8853A5B11D1807A8008C3E26 /* Assets.xcassets */,
 				8853A5B31D1807A8008C3E26 /* LaunchScreen.storyboard */,
@@ -159,7 +159,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8853A5AD1D1807A8008C3E26 /* ViewController.swift in Sources */,
-				8853A5C41D180B30008C3E26 /* TestTableTableViewController.swift in Sources */,
+				8853A5C41D180B30008C3E26 /* TestTableViewController.swift in Sources */,
 				8853A5AB1D1807A8008C3E26 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -310,6 +310,7 @@
 				8853A5BB1D1807A8008C3E26 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

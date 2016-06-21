@@ -40,7 +40,7 @@
         <!--Root View Controller-->
         <scene sceneID="7Kn-3X-MzZ">
             <objects>
-                <tableViewController clearsSelectionOnViewWillAppear="NO" id="Zix-2r-Da4" customClass="TestTableTableViewController" customModule="SplitViewControllerTest" customModuleProvider="target" sceneMemberID="viewController">
+                <tableViewController clearsSelectionOnViewWillAppear="NO" id="Zix-2r-Da4" customClass="TestTableViewController" customModule="SplitViewControllerTest" customModuleProvider="target" sceneMemberID="viewController">
                     <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="44" sectionHeaderHeight="28" sectionFooterHeight="28" id="F80-PR-IsO">
                         <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -100,6 +100,6 @@
         </scene>
     </scenes>
     <inferredMetricsTieBreakers>
-        <segue reference="bwJ-sS-qV7"/>
+        <segue reference="BlO-8g-dME"/>
     </inferredMetricsTieBreakers>
 </document>

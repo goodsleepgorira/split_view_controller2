@@ -4,7 +4,7 @@
 
 import UIKit
 
-class TestTableTableViewController: UITableViewController {
+class TestTableViewController: UITableViewController {
 
     private let tableData = ["test_morning_sample", "test_evening_sample", "test_night_sample"]
 
